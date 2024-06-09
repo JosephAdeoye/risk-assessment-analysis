@@ -1,6 +1,6 @@
 # Risk Assessment Analysis
 
-Here is a little background story of the company we would be conducting our risk assessment on as provided by PwC;
+Here is a little background story of the company we would be conducting our risk assessment on as provided by **PwC**;
 
 *Boldi AG is a family-owned business in Switzerland with around 90 employees. They are a premium component supplier for the chemical industry, they have 4 people in IT and hire external IT consultants now and then.*
 
@@ -21,3 +21,12 @@ Here is a little background story of the company we would be conducting our risk
 Does any of this present an information security concern? Please explain your answer in the slide deck. Think of this through the prism of confidentiality, integrity, and availability (CIA), and add slides to your started presentation.
 
 3. After you know enough about Boldi AG, decide what type of risk assessment would be best, a quantitative risk assessment or a qualitative risk assessment. Then explain the difference between quantitative and qualitative assessments. What do you rely on to be able to perform a quantitative assessment? Which method could be more adapted for information security risk assessments? 
+
+# Below Is How I Carried Out Each Task
+## Task 1
+
+This task requires me to leave a voicemail for my project manager, Stefan, detailing whom I would need to talk to at Boldi AG, as well as what the content of the interviews should be to determine the company’s culture. And also how the agenda differs based on the audience (managers vs. engineers). So, below is a voicemail I would drop for Stefan that explains how I would go about this:
+
+
+
+
