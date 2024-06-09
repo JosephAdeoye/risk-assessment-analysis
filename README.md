@@ -86,7 +86,7 @@ Pulling the same information we used in calculating our ALE, we are simply going
 
 To calculate **Single Loss Expectancy = AV * EF**.
 
-**SLO = $2,000,000 * 0.6 = $1,200,000**.
+**SLE = $2,000,000 * 0.6 = $1,200,000**.
 
 Therefore, the **Single Loss Expectancy** for the risk of a single data breach occurrence is **$1,200,000**.
 
