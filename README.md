@@ -27,6 +27,6 @@ Does any of this present an information security concern? Please explain your an
 
 This task requires me to leave a voicemail for my project manager, Stefan, detailing whom I would need to talk to at Boldi AG, as well as what the content of the interviews should be to determine the company’s culture. And also how the agenda differs based on the audience (managers vs. engineers). So, below is a voicemail I would drop for Stefan that explains how I would go about this:
 
-
+https://github.com/JosephAdeoye/risk-assessment-analysis/assets/66190309/769d3204-970c-4385-95d0-d84695873bb7
 
 
